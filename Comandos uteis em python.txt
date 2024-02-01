@@ -1,0 +1,17 @@
+Comandos uteis em python
+
+auto-py-to-exe 
+
+raise SystemExit (parar o programa)
+
+if variavel not in [ ]
+
+contar de trás pra frente (6, 0, -1):
+
+-----------------------------------------------------------------------
+CONTADOR DE NÚMEROS COM WHILE
+termos = int(input("Quantos termos você quer mostrar? "))
+cont = 0
+while cont < termos:
+cont += 1
+------------------------------------------------------------------------
