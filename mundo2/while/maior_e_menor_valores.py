@@ -4,7 +4,7 @@ n2 = 0
 total = 0
 cont = 0
 op = 'S'
-menor = 0
+
 while op != 'N':
     n = int(input("Digite um número: "))
     op = str(input("Quer Continuar? [S/N]")).strip().upper()[0]

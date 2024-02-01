@@ -30,7 +30,10 @@ while True:
         break
 print(f"Total de pessoas com mais de 18 anos: {contA}")
 print(f"Foram cadastrados {contB} homens.")
-print(f"Temos {contC}" "mulheres" if contC > 1 else "mulher" "cadastratadas com menos de 20 anos.")
+if contC > 1:
+    print(f"Temos {contC} mulheres cadastratadas com menos de 20 anos.")
+else:
+    print(f"Temos {contC} mulher cadastrada com menos de 20 anos.")
     
 
     
