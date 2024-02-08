@@ -3,6 +3,7 @@
 #print(lanche[0:2]) só ira exibir de 0 ate 1, 2 não será exibido
 #print(lanche[1:])  comece no 1 até o final
 #print(lanche[-1])  exibe o último valor
+#print(lanche[-4:])  exibe os últimos 4 valores
 #len(lanche) quantos valores há na variavel
 #print(lanche[:2]) do inicio até o elemento 2
 #for p in lanche:
