@@ -26,8 +26,8 @@
 #c = a + b
 #print(c)
 #print(len(c))
-#print(c.count(5))
-#print(c.index(5))
+#print(c.count(5)) contar
+#print(c.index(5)) mostrar em que posição está o número 5
 #print(c.index(5, 2)) # quero procurar a partir da posição
 
 
