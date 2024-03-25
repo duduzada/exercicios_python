@@ -19,4 +19,4 @@ for n in lista:
     else:
         impares.append(n)
 print(f"A lista de pares é {pares}")
-print(f"A lista de pares é {impares}")
+print(f"A lista de impares é {impares}")
