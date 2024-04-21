@@ -23,6 +23,8 @@ for p in galera:
     print(f"{p[0]} tem {p[1]} anos de idade")
 
 ///////////////////////////////////////////////////////////////////////////////////////
+
+
 totmai = totmen = 0
 galera = list()
 dado = list()
